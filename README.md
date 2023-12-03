@@ -1,8 +1,7 @@
 # resumoApiREST
 
- # Api REST e RESTFul
+# Api REST e RESTFul
 
-### API REST
 
 API REST (Interface de Programação de Aplicações Representacional): É um conjunto de princípios arquiteturais que guiam o design de serviços web. O termo "REST" refere-se a Representational State Transfer, indicando a transferência de representações de recursos entre sistemas.
 
@@ -11,7 +10,6 @@ API REST (Interface de Programação de Aplicações Representacional): É um co
 - Pode ou não ser stateless (sem estado), dependendo da implementação.
 - Os recursos são identificados por URLs.
 - Suporta diferentes formatos de representação, como JSON, XML.
-### API RESTful
 
 API RESTful: É uma implementação concreta dos princípios REST. Uma API é considerada RESTful quando adere estritamente às restrições e práticas recomendadas do estilo arquitetural REST.
 
@@ -21,9 +19,9 @@ API RESTful: É uma implementação concreta dos princípios REST. Uma API é co
 - Adere estritamente aos métodos HTTP para operações em recursos.
 - Utiliza formatos de representação, como JSON, para transmitir dados.
 
-    ## Diferenças entre REST e RESTFul
+## Diferenças entre REST e RESTFul
 
-    REST e RESTful são dois termos frequentemente usados ​​em conjunto, mas há uma diferença importante entre eles. **REST** é um conjunto de princípios arquitetônicos para serviços web, enquanto **RESTful** é um termo usado para descrever uma API que implementa esses princípios.
+REST e RESTful são dois termos frequentemente usados ​​em conjunto, mas há uma diferença importante entre eles. **REST** é um conjunto de princípios arquitetônicos para serviços web, enquanto **RESTful** é um termo usado para descrever uma API que implementa esses princípios.
 
 As principais diferenças entre REST e RESTful são as seguintes:
 
@@ -57,5 +55,5 @@ As principais diferenças entre REST e RESTful são as seguintes:
 
 
   
-
-    Autor do resumo: Paulo Cesar Cadena de Almeida Filho - 01563936
+---
+Autor do resumo: Paulo Cesar Cadena de Almeida Filho - 01563936
